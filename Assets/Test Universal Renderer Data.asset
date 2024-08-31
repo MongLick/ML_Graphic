@@ -70,7 +70,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Active: 1
   settings:
-    passTag: Playerr
+    passTag: Player
     Event: 600
     filterSettings:
       RenderQueueType: 0
